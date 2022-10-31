@@ -16,7 +16,7 @@ author = "Ashwini Munji"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Ashwini Munji's personal blog"
 keywords = "ashwinimunji, ashwini, munji, ashmunji, munji,blog,developer,personal, nimu, studionimu"
-info = ["Hi, I'm a trained Interior Designer currently pursuing", "my Masters degree in Landscape Architecture.", "Artist & Storyteller"]
+info = ["Hi, I'm a trained Interior Designer currently pursuing", "my Masters degree in Landscape Architecture.", "Visual Artist & Storyteller."]
 avatarURL = "images/avatar.png"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
