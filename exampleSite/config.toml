@@ -104,7 +104,25 @@ tag = "tags"
 author = "authors"
 
 [[params.social]]
+name = "Contact"
+icon = "fa fa-2x fa-envelope"
+weight = 2
+url = "mailto:ashwinimunji16@gmail.com"
+
+[[params.social]]
 name = "Instagram"
+icon = "fa fa-2x <i class="fa-brands fa-instagram"></i>"
+weight = 1
+url = "https://github.com/johndoe/"
+
+[[params.social]]
+name = "Behance"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/johndoe/"
+
+[[params.social]]
+name = "Youtube"
 icon = "fa fa-2x fa-github"
 weight = 1
 url = "https://github.com/johndoe/"
@@ -150,12 +168,3 @@ url = "https://nimu.work"
 name = "Space Narrative"
 weight = 3
 url = "https://spacenarrative.com/"
-
-[[languages.en.menu.main]]
-name = "Contact me"
-weight = 5
-url = "contact/"
-
-[languages.pt-br]
-languageName = ":brazil:"
-title = "Ashwini Munji"
