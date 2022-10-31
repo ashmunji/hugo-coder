@@ -106,45 +106,32 @@ author = "authors"
 [[params.social]]
 name = "Contact"
 icon = "fa fa-2x fa-envelope"
+weight = 1
+url = "mailto:studionimu@gmail.com"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-2x fa-linkedin"
 weight = 2
-url = "mailto:ashwinimunji16@gmail.com"
+url = "https://www.linkedin.com/in/ashwinimunji/"
 
 [[params.social]]
 name = "Instagram"
 icon = "fa fa-2x fa-instagram"
-weight = 1
-url = "https://github.com/johndoe/"
-
-[[params.social]]
-name = "Behance"
-icon = "fa fa-2x fa-github"
-weight = 1
-url = "https://github.com/johndoe/"
-
-[[params.social]]
-name = "Youtube"
-icon = "fa fa-2x fa-github"
-weight = 1
-url = "https://github.com/johndoe/"
-
-[[params.social]]
-name = "Dribbble"
-icon = "fa fa-2x fa-gitlab"
-weight = 2
-url = "https://gitlab.com/johndoe/"
+weight = 4
+url = "https://www.instagram.com/ashwinimunji/"
 
 [[params.social]]
 name = "Twitter"
 icon = "fa fa-2x fa-twitter"
 weight = 3
-url = "https://twitter.com/johndoe/"
+url = "https://twitter.com/ashwinimunji"
 
-[[params.social]]
-name = "LinkedIn"
-icon = "fa fa-2x fa-linkedin"
-weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
-
+[params.social]]
+name = "Youtube"
+icon = "fa fa-2x fa-youtube"
+weight = 5
+url = "https://www.youtube.com/channel/UCvoieBNDoMeilQ2J2DMlS-g"
 
 [languages.en]
 languageName = ":uk:"
